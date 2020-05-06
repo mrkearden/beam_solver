@@ -33,12 +33,12 @@ Material 1
  Director(3) = Real 0.0 0.0 1.0
 
  ! Specify I_k (here I_3 will have no effect)
- Second Moment of Area 2 = Real 0.000137
- Second Moment of Area 3 = Real 0.0225
+ Second Moment of Area 2 = Real 0.000168
+ Second Moment of Area 3 = Real 0.011253
  ! Specify A:
- Cross Section Area = Real 0.032286
+ Cross Section Area = Real 0.01804
  ! Specify J_T:
- Torsional Constant = Real 1.E-6
+ Torsional Constant = Real 2.33E-7
  ! The density is used only in transient cases:
  Density = 7700.0
 End
