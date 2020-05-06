@@ -1,0 +1,6 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = beam
+End
+
+!------ Skeleton for boundary section -----
